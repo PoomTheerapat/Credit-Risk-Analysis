@@ -23,17 +23,17 @@
 │   ├── raw/                # ข้อมูลดิบ
 │   └── processed/          # ข้อมูลหลังทำความสะอาด
 ├── notebooks/
-│   ├── 01_eda.ipynb        # Exploratory Data Analysis
-│   ├── 02_feature.ipynb    # Feature Engineering & Binning
-│   ├── 03_model.ipynb      # Model Training
-│   └── 04_scorecard.ipynb  # Scorecard Development
-├── models/
-│   └── credit_model.pkl
+│   ├── Risk-Creidit-Analysis_notebook.ipynb       # Exploratory Data Analysis
 ├── reports/
 │   └── project_summary.pdf
+│   └── Risk-Creidit-Analysis_notebook.pdf
 ├── requirements.txt
 └── README.md
 ```
+
+<img width="5158" height="6036" alt="NotebookLM Mind Map" src="https://github.com/user-attachments/assets/95b05251-41f9-4e72-8ac1-567ec635b5b0" />
+
+
 ## 🔍 Methodology
 
 - Data Preparation
