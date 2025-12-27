@@ -24,6 +24,8 @@
 │   └── processed/          # ข้อมูลหลังทำความสะอาด
 ├── notebooks/
 │   ├── Risk-Creidit-Analysis_notebook.ipynb       # Exploratory Data Analysis
+├── model/
+│   ├── credit_scorecard_model.pkl
 ├── reports/
 │   └── project_summary.pdf
 │   └── Risk-Creidit-Analysis_notebook.pdf
